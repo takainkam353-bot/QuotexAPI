@@ -1,0 +1,4 @@
+quotexpy
+pandas
+ta
+asyncio
